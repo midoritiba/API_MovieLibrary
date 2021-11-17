@@ -2,13 +2,13 @@
 
 **Movie Search App using Fetch**
 
-https://midoritiba.github.io/CoffeShop-Cash-register-Project/
+https://midoritiba.github.io/API_MovieLibrary/
 
 - API using fetch
 - Asynchronous functions
 - Javascript
 - Bootstrap
 
-![alt text](https://github.com/midoritiba/CoffeShop-Cash-register-Project/blob/main/mockup/coffe_shop.png)
+![alt text](https://github.com/midoritiba/API_MovieLibrary/blob/main/images/mockup.png?raw=true)
 
 _to sign up for the api key : [omdbapi](https://www.omdbapi.com/apikey.aspx)_
